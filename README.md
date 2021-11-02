@@ -1,4 +1,4 @@
-# 20211102 git basics
+# 20211102
 
 - 'git init': create a git repo in current foloder.
 	- only need to do this once, do not nest repos.
@@ -15,4 +15,7 @@
 -'git checkout <HASH> <FILE>'; revert <FILE> to the version in <HAHS>
 -'git status": 
 -'git checkout <HASH>': 
+	
+# Remotes
+Github is an example of a remote
 	
