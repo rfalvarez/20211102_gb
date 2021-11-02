@@ -12,3 +12,7 @@
 -'git diff': shows diff from all your files to last commit
 	-'git diff HEAD <FILE>": only diff the <FILE>
 	-
+-'git checkout <HASH> <FILE>'; revert <FILE> to the version in <HAHS>
+-'git status": 
+-'git checkout <HASH>': 
+	
